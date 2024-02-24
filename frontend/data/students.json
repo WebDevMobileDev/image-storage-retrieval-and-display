@@ -1,0 +1,277 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "matricule": "AB123",
+      "age": 20,
+      "level": 2
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "matricule": "CD456",
+      "age": 21,
+      "level": 3
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "matricule": "EF789",
+      "age": 19,
+      "level": 1
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "matricule": "GH012",
+      "age": 22,
+      "level": 4
+    },
+    {
+      "id": 5,
+      "name": "Emma Lee",
+      "matricule": "IJ345",
+      "age": 20,
+      "level": 2
+    },
+    {
+      "id": 7,
+      "name": "Olivia Garcia",
+      "matricule": "MN901",
+      "age": 19,
+      "level": 1
+    },
+    {
+      "id": 9,
+      "name": "Sophia Hernandez",
+      "matricule": "QR567",
+      "age": 20,
+      "level": 2
+    },
+    {
+      "id": 10,
+      "name": "James Gonzales",
+      "matricule": "ST890",
+      "age": 21,
+      "level": 3
+    },
+    {
+      "id": 11,
+      "name": "Ava Perez",
+      "matricule": "UV123",
+      "age": 19,
+      "level": 1
+    },
+    {
+      "id": 12,
+      "name": "Elijah Carter",
+      "matricule": "WX456",
+      "age": 22,
+      "level": 4
+    },
+    {
+      "id": 13,
+      "name": "Mia Foster",
+      "matricule": "YZ789",
+      "age": 20,
+      "level": 2
+    },
+    {
+      "id": 14,
+      "name": "Benjamin Ramirez",
+      "matricule": "AB012",
+      "age": 21,
+      "level": 3
+    },
+    {
+      "id": 15,
+      "name": "Charlotte Barnes",
+      "matricule": "CD345",
+      "age": 19,
+      "level": 1
+    },
+    {
+      "id": 16,
+      "name": "Henry Ward",
+      "matricule": "EF678",
+      "age": 22,
+      "level": 4
+    },
+    {
+      "id": 17,
+      "name": "Amelia Gray",
+      "matricule": "GH901",
+      "age": 20,
+      "level": 2
+    },
+    {
+      "id": 18,
+      "name": "Alexander Cooper",
+      "matricule": "IJ234",
+      "age": 21,
+      "level": 3
+    },
+    {
+      "id": 19,
+      "name": "Evelyn Coleman",
+      "matricule": "KL567",
+      "age": 19,
+      "level": 1
+    },
+    {
+      "id": 20,
+      "name": "William Rivera",
+      "matricule": "MN890",
+      "age": 22,
+      "level": 4
+    },
+    {
+      "id": 21,
+      "name": "Samantha Reed",
+      "matricule": "OP123",
+      "age": 20,
+      "level": 2
+    },
+    {
+      "id": 22,
+      "name": "Daniel Long",
+      "matricule": "QR456",
+      "age": 21,
+      "level": 3
+    },
+    {
+      "id": 23,
+      "name": "Victoria Price",
+      "matricule": "ST789",
+      "age": 19,
+      "level": 1
+    },
+    {
+      "id": 24,
+      "name": "Gabriel Hughes",
+      "matricule": "UV012",
+      "age": 22,
+      "level": 4
+    },
+    {
+      "id": 25,
+      "name": "Madison Perry",
+      "matricule": "WX345",
+      "age": 20,
+      "level": 2
+    },
+    {
+      "id": 26,
+      "name": "Jackson Brooks",
+      "matricule": "YZ678",
+      "age": 21,
+      "level": 3
+    },
+    {
+      "id": 27,
+      "name": "Penelope Powell",
+      "matricule": "AB901",
+      "age": 19,
+      "level": 1
+    },
+    {
+      "id": 28,
+      "name": "Samuel Simmons",
+      "matricule": "CD234",
+      "age": 22,
+      "level": 4
+    },
+    {
+      "id": 29,
+      "name": "Lily Cox",
+      "matricule": "EF567",
+      "age": 20,
+      "level": 2
+    },
+    {
+      "id": 30,
+      "name": "Christopher Peterson",
+      "matricule": "GH890",
+      "age": 21,
+      "level": 3
+    },
+    {
+      "id": 31,
+      "name": "Grace Washington",
+      "matricule": "IJ123",
+      "age": 19,
+      "level": 1
+    },
+    {
+      "id": 32,
+      "name": "Andrew Bell",
+      "matricule": "KL456",
+      "age": 22,
+      "level": 4
+    },
+    {
+      "id": 33,
+      "name": "Natalie Stewart",
+      "matricule": "MN789",
+      "age": 20,
+      "level": 2
+    },
+    {
+      "id": 34,
+      "name": "Lucas Cook",
+      "matricule": "OP012",
+      "age": 21,
+      "level": 3
+    },
+    {
+      "id": 35,
+      "name": "Avery Morris",
+      "matricule": "QR345",
+      "age": 19,
+      "level": 1
+    },
+    {
+      "id": 36,
+      "name": "Aubrey Bailey",
+      "matricule": "ST678",
+      "age": 22,
+      "level": 4
+    },
+    {
+      "id": 37,
+      "name": "Chloe Murphy",
+      "matricule": "UV901",
+      "age": 20,
+      "level": 2
+    },
+    {
+      "id": 38,
+      "name": "Owen Rivera",
+      "matricule": "WX234",
+      "age": 21,
+      "level": 3
+    },
+    {
+      "id": 39,
+      "name": "Hannah Brooks",
+      "matricule": "YZ567",
+      "age": 19,
+      "level": 1
+    },
+    {
+      "id": 40,
+      "name": "Mewoabi Dore",
+      "matricule": "FE21A239",
+      "age": 20,
+      "level": 3
+    },
+    {
+      "id": 42,
+      "name": "Fowedlung",
+      "matricule": "FE34A299",
+      "age": 78,
+      "level": 1
+    }
+  ]
+}
